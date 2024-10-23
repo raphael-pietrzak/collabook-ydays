@@ -1,31 +1,27 @@
-# Node.js dependencies
-node_modules/
 
-# Environnements (ne pas exposer les secrets comme les API keys)
-.env
+# Collabooks YDAYS
 
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+## Introduction
 
-# Build directories
-/dist
-/build
+This is a collaborative book project for the YDAYS 2025. The goal is to create a website that allows users to collaboratively write a book.
 
-# IDE-specific files
-.vscode/
-.idea/
+## How to contribute
 
-# MacOS-specific files
-.DS_Store
+1. Fork this repository
+2. Clone the forked repository to your local machine
+3. Create a new branch
+4. Make your changes
+5. Push your changes to your forked repository
+6. Create a pull request
 
-# Coverage directory used by testing tools
-coverage/
+## License
 
-# Temporary files
-*.tmp
-*.log
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-# Ignore the SQLite database file
-*.sqlite3
+## Authors
+
+- Jean
+- Junior
+- Raphael
+- Anaïs
+- Marion
